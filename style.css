@@ -1,0 +1,39 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color:black;
+    background-color: FFD2D2;
+    background-color: lemonchiffon;
+  }
+
+
+  .fotos{
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+ 
+.logo-tbp {
+    margin-bottom: 40px;
+    color: blueviolet;
+}
+
+.row {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.main-title-center {
+  text-align: center;
+  margin-top: 20px;
+}
+.nav-link {
+  text-transform: uppercase; 
+  margin: 0px 10px;
+  font-size: 120%;
+}
+
+a:hover {
+  text-decoration: underline;
+}
